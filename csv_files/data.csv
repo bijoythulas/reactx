@@ -1,0 +1,7 @@
+ReferralDate,Group,Team,User,Outcome,ReferralType,Count
+01/01/21,GroupA,Team1,User1,Resolve,Biometric,2
+01/01/21,GroupA,Team1,User2,Resolve,Biometric,4
+01/01/21,GroupA,Team1,User3,Resolve,Biometric,3
+01/01/21,GroupB,TeamB1,User1,Resolve,Biometric,2
+01/01/21,GroupB,TeamB1,User2,Resolve,Biometric,4
+01/01/21,GroupB,TeamB1,User3,Resolve,Biometric,3

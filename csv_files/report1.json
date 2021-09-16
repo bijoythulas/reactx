@@ -1,0 +1,28 @@
+{
+  "dataSource": {
+    "dataSourceType": "csv",
+    "filename": "http://localhost:5000/data0.csv"
+  },
+  "slice": {
+    "rows": [
+      {
+        "uniqueName": "ReferralDate"
+      }
+    ],
+    "columns": [
+      {
+        "uniqueName": "Outcome"
+      },
+      {
+        "uniqueName": "Measures"
+      }
+    ],
+    "measures": [
+      {
+        "uniqueName": "Count",
+        "aggregation": "count",
+        "availableAggregations": ["count", "distinctcount"]
+      }
+    ]
+  }
+}
